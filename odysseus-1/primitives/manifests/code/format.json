@@ -1,0 +1,10 @@
+{
+  "name": "code_format",
+  "category": "code",
+  "description": "Perform format operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

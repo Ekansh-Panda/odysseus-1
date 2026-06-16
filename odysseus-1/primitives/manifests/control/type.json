@@ -1,0 +1,10 @@
+{
+  "name": "control_type",
+  "category": "control",
+  "description": "Perform type operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

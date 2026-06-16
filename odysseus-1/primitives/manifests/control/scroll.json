@@ -1,0 +1,10 @@
+{
+  "name": "control_scroll",
+  "category": "control",
+  "description": "Perform scroll operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

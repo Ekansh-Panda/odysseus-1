@@ -1,0 +1,10 @@
+{
+  "name": "file_mkdir",
+  "category": "file",
+  "description": "Perform mkdir operation in file domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

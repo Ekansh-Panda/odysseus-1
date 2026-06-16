@@ -1,0 +1,10 @@
+{
+  "name": "network_post",
+  "category": "network",
+  "description": "Perform post operation in network domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

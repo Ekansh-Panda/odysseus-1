@@ -1,0 +1,10 @@
+{
+  "name": "code_lint",
+  "category": "code",
+  "description": "Perform lint operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

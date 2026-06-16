@@ -1,0 +1,10 @@
+{
+  "name": "network_graphql",
+  "category": "network",
+  "description": "Perform graphql operation in network domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

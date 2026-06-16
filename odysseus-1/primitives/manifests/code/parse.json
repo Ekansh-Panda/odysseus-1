@@ -1,0 +1,10 @@
+{
+  "name": "code_parse",
+  "category": "code",
+  "description": "Perform parse operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

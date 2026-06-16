@@ -1,0 +1,10 @@
+{
+  "name": "kernel_execve",
+  "category": "kernel",
+  "description": "Perform execve operation in kernel domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "critical"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kernel_listen",
+  "category": "kernel",
+  "description": "Perform listen operation in kernel domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "critical"
+}

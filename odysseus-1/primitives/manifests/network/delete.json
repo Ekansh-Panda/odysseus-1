@@ -1,0 +1,10 @@
+{
+  "name": "network_delete",
+  "category": "network",
+  "description": "Perform delete operation in network domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "control_click",
+  "category": "control",
+  "description": "Perform click operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

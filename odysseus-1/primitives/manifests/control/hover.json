@@ -1,0 +1,10 @@
+{
+  "name": "control_hover",
+  "category": "control",
+  "description": "Perform hover operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

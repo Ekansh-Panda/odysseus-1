@@ -1,0 +1,10 @@
+{
+  "name": "network_options",
+  "category": "network",
+  "description": "Perform options operation in network domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "code_bundle",
+  "category": "code",
+  "description": "Perform bundle operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

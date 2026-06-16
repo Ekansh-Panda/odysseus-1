@@ -1,0 +1,10 @@
+{
+  "name": "file_chown",
+  "category": "file",
+  "description": "Perform chown operation in file domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "control_screenshot",
+  "category": "control",
+  "description": "Perform screenshot operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

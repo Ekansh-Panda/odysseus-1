@@ -1,0 +1,10 @@
+{
+  "name": "code_transpile",
+  "category": "code",
+  "description": "Perform transpile operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

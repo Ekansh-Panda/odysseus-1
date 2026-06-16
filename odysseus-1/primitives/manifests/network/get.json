@@ -1,0 +1,10 @@
+{
+  "name": "network_get",
+  "category": "network",
+  "description": "Perform get operation in network domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kernel_clone",
+  "category": "kernel",
+  "description": "Perform clone operation in kernel domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "critical"
+}

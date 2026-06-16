@@ -1,0 +1,10 @@
+{
+  "name": "kernel_exec",
+  "category": "kernel",
+  "description": "Perform exec operation in kernel domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "critical"
+}
