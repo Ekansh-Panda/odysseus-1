@@ -1,0 +1,10 @@
+{
+  "name": "kernel_bind",
+  "category": "kernel",
+  "description": "Perform bind operation in kernel domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "critical"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kernel_accept",
+  "category": "kernel",
+  "description": "Perform accept operation in kernel domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "critical"
+}

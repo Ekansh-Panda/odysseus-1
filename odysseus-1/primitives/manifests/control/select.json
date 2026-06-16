@@ -1,0 +1,10 @@
+{
+  "name": "control_select",
+  "category": "control",
+  "description": "Perform select operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "code_profile",
+  "category": "code",
+  "description": "Perform profile operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

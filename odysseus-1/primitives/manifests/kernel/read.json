@@ -1,0 +1,10 @@
+{
+  "name": "kernel_read",
+  "category": "kernel",
+  "description": "Perform read operation in kernel domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "critical"
+}

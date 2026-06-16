@@ -1,0 +1,18 @@
+[package]
+name = "soul_daemon"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+zmq = "0.10"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tracing = "0.1"
+tracing-subscriber = "0.3"
+# llama-cpp-rs is simulated here as it might not be in crates.io under this exact name or requires specific setup
+# llama-cpp-rs = "0.3" 
+
+[features]
+flash-attn = []
+quantized-kv = []

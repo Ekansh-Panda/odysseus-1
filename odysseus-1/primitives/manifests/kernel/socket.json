@@ -1,0 +1,10 @@
+{
+  "name": "kernel_socket",
+  "category": "kernel",
+  "description": "Perform socket operation in kernel domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "critical"
+}

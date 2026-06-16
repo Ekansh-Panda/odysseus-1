@@ -1,0 +1,10 @@
+{
+  "name": "control_keypress",
+  "category": "control",
+  "description": "Perform keypress operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

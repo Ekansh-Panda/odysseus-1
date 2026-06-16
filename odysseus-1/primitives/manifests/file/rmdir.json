@@ -1,0 +1,10 @@
+{
+  "name": "file_rmdir",
+  "category": "file",
+  "description": "Perform rmdir operation in file domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

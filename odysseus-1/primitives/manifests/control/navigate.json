@@ -1,0 +1,10 @@
+{
+  "name": "control_navigate",
+  "category": "control",
+  "description": "Perform navigate operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

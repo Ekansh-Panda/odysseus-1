@@ -1,0 +1,10 @@
+{
+  "name": "control_drag",
+  "category": "control",
+  "description": "Perform drag operation in control domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

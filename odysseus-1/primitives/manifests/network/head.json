@@ -1,0 +1,10 @@
+{
+  "name": "network_head",
+  "category": "network",
+  "description": "Perform head operation in network domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

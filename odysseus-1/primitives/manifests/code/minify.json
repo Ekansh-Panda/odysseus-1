@@ -1,0 +1,10 @@
+{
+  "name": "code_minify",
+  "category": "code",
+  "description": "Perform minify operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

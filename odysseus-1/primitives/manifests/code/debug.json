@@ -1,0 +1,10 @@
+{
+  "name": "code_debug",
+  "category": "code",
+  "description": "Perform debug operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

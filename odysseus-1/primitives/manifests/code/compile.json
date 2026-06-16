@@ -1,0 +1,10 @@
+{
+  "name": "code_compile",
+  "category": "code",
+  "description": "Perform compile operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

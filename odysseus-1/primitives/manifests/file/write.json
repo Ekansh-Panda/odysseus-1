@@ -1,0 +1,10 @@
+{
+  "name": "file_write",
+  "category": "file",
+  "description": "Perform write operation in file domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

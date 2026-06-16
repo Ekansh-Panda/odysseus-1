@@ -1,0 +1,10 @@
+{
+  "name": "file_copy",
+  "category": "file",
+  "description": "Perform copy operation in file domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

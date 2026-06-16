@@ -1,0 +1,10 @@
+{
+  "name": "network_patch",
+  "category": "network",
+  "description": "Perform patch operation in network domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

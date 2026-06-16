@@ -1,0 +1,10 @@
+{
+  "name": "code_test",
+  "category": "code",
+  "description": "Perform test operation in code domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "file_chmod",
+  "category": "file",
+  "description": "Perform chmod operation in file domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

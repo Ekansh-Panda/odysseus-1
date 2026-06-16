@@ -1,0 +1,10 @@
+{
+  "name": "file_move",
+  "category": "file",
+  "description": "Perform move operation in file domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

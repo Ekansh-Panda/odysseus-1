@@ -1,0 +1,10 @@
+{
+  "name": "file_append",
+  "category": "file",
+  "description": "Perform append operation in file domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "network_websocket",
+  "category": "network",
+  "description": "Perform websocket operation in network domain",
+  "schema": {
+    "input": "object",
+    "params": "object"
+  },
+  "security_level": "standard"
+}
